@@ -4,3 +4,4 @@ name_3 = input()
 print(name_1)
 print(name_2)
 print(name_3)
+
